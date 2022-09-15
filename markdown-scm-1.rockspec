@@ -10,7 +10,7 @@ description = {
    homepage = "https://github.com/mpeterv/markdown"
 }
 dependencies = {
-   "lua >= 5.1, < 5.4"
+   "lua >= 5.1, < 5.5"
 }
 build = {
    type = "builtin",
